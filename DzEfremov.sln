@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Csharp", "Csharp", "{6CF7FA53-39B5-4DB5-90FE-52E33EE57077}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework3.1", "Homework3.1", "{0B235E0F-06A0-4F57-859E-CD7D21F92B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ3.1", "DZ3.1\DZ3.1.csproj", "{79B9AFD8-82CC-47DA-83AA-E4B6A8C00B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B9AFD8-82CC-47DA-83AA-E4B6A8C00B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B9AFD8-82CC-47DA-83AA-E4B6A8C00B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B9AFD8-82CC-47DA-83AA-E4B6A8C00B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B9AFD8-82CC-47DA-83AA-E4B6A8C00B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0B235E0F-06A0-4F57-859E-CD7D21F92B55} = {6CF7FA53-39B5-4DB5-90FE-52E33EE57077}
+		{79B9AFD8-82CC-47DA-83AA-E4B6A8C00B7D} = {0B235E0F-06A0-4F57-859E-CD7D21F92B55}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E42E6874-FB0E-4C1A-B664-BB026EF18C5D}
+	EndGlobalSection
+EndGlobal
